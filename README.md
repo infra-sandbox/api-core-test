@@ -1,6 +1,6 @@
 # api-core-test
 
-Este repositorio contiene un microservicio básico desarrollado en **Node.js + Express** que forma parte de un mini ecosistema de prueba. El servicio expone una ruta HTTP muy simple (`/core`) que retorna un mensaje estático.
+Este repositorio contiene un microservicio básico desarrollado en **Node.js + Express** que forma parte de un mini ecosistema de prueba. El servicio expone una ruta HTTP (`/core`) que permite interactuar con una base de datos **MongoDB**.
 
 Está diseñado para interactuar con:
 
